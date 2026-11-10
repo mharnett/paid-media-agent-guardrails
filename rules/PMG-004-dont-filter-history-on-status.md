@@ -23,3 +23,4 @@ Then check the hits for metrics in the same query.
 
 ## Fixed in
 - [kLOsk/adloop #128](https://github.com/kLOsk/adloop/pull/128) (merged 2026-11-08)
+- [googleads/google-ads-mcp #146](https://github.com/googleads/google-ads-mcp/pull/146) (merged 2026-11-10): a hint in the official Google Ads MCP's search tool description
