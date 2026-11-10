@@ -1,4 +1,4 @@
-# Paid Search Agent Guardrails
+# Paid Media Agent Guardrails
 
 Agents are writing to ad accounts everywhere — pausing campaigns, adjusting
 bids, applying platform recommendations, editing keywords — often on a
