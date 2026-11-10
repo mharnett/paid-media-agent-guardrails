@@ -6,8 +6,8 @@ Every page has the same parts: the rule in one line, why (with a hypothetical ex
 
 | ID | Rule | Fixed in |
 |---|---|---|
-| [PSG-001](PSG-001-dont-blend-roas.md) | Don't blend ROAS across brand and non-brand, or retargeting and prospecting | 3 repos |
-| [PSG-003](PSG-003-dont-decide-from-one-week.md) | Don't decide from one week | 1 repo |
-| [PSG-004](PSG-004-dont-filter-history-on-status.md) | Don't filter historical metrics on current status | 1 repo |
+| [PMG-001](PMG-001-dont-blend-roas.md) | Don't blend ROAS across brand and non-brand, or retargeting and prospecting | 3 repos |
+| [PMG-003](PMG-003-dont-decide-from-one-week.md) | Don't decide from one week | 1 repo |
+| [PMG-004](PMG-004-dont-filter-history-on-status.md) | Don't filter historical metrics on current status | 1 repo |
 
 IDs are stable and never reused. Gaps are rules not yet written up.
