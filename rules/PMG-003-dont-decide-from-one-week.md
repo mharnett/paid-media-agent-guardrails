@@ -5,7 +5,7 @@
 ## Why
 On most accounts CPA and conversions move 20-30% week to week with nothing wrong. Auctions, seasonality and conversion lag all add noise. A one-period comparison turns that noise into a steady stream of "fix this" calls, and next week's swing back reverses them.
 
-Hypothetical: CPA over the last 8 weeks ran between 80 and 115. This week it's 108, up 25% on last week's 86. Week over week, that's an alarm. Against the 8-week range it's an ordinary week, and the right call is to hold.
+Hypothetical: CPA over the last 8 weeks ran between 80 and 115. This week it's 105, up 25% on last week's 84. Week over week, that's an alarm. Against the 8-week range it's an ordinary week, and the right call is to hold.
 
 The exceptions are facts, not trends: overspend, broken tracking, a landing page that's down, a disapproved ad. Act on those immediately.
 
