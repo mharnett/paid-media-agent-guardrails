@@ -1,4 +1,4 @@
-# PSG-001: Don't blend ROAS across brand and non-brand, or retargeting and prospecting
+# PMG-001: Don't blend ROAS across brand and non-brand, or retargeting and prospecting
 
 **Rule:** Split brand from non-brand search, and retargeting from prospecting, before comparing ROAS or moving budget.
 

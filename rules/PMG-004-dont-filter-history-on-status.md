@@ -1,4 +1,4 @@
-# PSG-004: Don't filter historical metrics on current status
+# PMG-004: Don't filter historical metrics on current status
 
 **Rule:** When pulling metrics over a date range, don't filter on status. Status is today's value, not the value during the range.
 

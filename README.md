@@ -17,7 +17,7 @@ should be too.
 
 ## What's here
 
-- **[rules/](rules/)**: one page per rule, each with a stable ID (`PSG-001`…),
+- **[rules/](rules/)**: one page per rule, each with a stable ID (`PMG-001`…),
   a detection pattern, a fix template and the repos where the fix has merged.
   Start here.
 - **[shape-anchor-testing.md](shape-anchor-testing.md)** — why unit tests

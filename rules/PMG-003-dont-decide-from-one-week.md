@@ -1,4 +1,4 @@
-# PSG-003: Don't decide from one week
+# PMG-003: Don't decide from one week
 
 **Rule:** Compare this period to the trailing 6-8 periods, not to the one before it. Act only when it's outside that range.
 
