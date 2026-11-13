@@ -26,4 +26,4 @@ Then check whether anything splits brand from non-brand (a campaign-name rule or
 > Derive a channel column from campaign names (brand vs non-brand, using a rule the user supplies) and pivot on that instead of platform. Treat brand search as a separate channel, or leave it out of the media inputs and explain why.
 
 ## Fixed in
-None merged yet.
+- [pymc-labs/pymc-marketing #3338](https://github.com/pymc-labs/pymc-marketing/pull/3338) (merged 2026-11-12): a brand/non-brand split step in the Fivetran connectors notebook and a note in the loader's docstring
